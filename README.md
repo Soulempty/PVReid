@@ -19,7 +19,7 @@
      python train.py --data_path ../vehicle/VeRi --name fighter --dtype vehicle --data_name veri --device 4
 
      ```
- - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    VEHICLE-DATASET:VeRi-776
+ - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    VEHICLE-DATASET: VeRi-776
    
    |  Network  |  MAP   |  TOP1  |  TOP3  |  TOP5  |  TOP10  | 
    | :-------: | :----: | :----: | :----: | :----: | :-----: |
@@ -28,7 +28,7 @@
    | Flydragon | 0.4189 | 0.4415 | 0.4284 | 0.4284 | 0.4284  |       
    | Flydragon | 0.4189 | 0.4414 | 0.4284 | 0.4284 | 0.4284  |     
    
- - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    VEHICLE-DATASET:VehicleID
+ - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    VEHICLE-DATASET: VehicleID
    
    |  Network  |  MAP   |  TOP1  |  TOP3  |  TOP5  |  TOP10  | 
    | :-------: | :----: | :----: | :----: | :----: | :-----: |
@@ -37,7 +37,7 @@
    | Flydragon | 0.4189 | 0.4415 | 0.4284 | 0.4284 | 0.4284  |       
    | Flydragon | 0.4189 | 0.4414 | 0.4284 | 0.4284 | 0.4284  | 
    
- - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    PERSON-DATASET:Market1501
+ - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    PERSON-DATASET: MSMT17
    
    |  Network  |  MAP   |  TOP1  |  TOP3  |  TOP5  |  TOP10  | 
    | :-------: | :----: | :----: | :----: | :----: | :-----: |
@@ -46,7 +46,7 @@
    | Flydragon | 0.4189 | 0.4415 | 0.4284 | 0.4284 | 0.4284  |       
    | Flydragon | 0.4189 | 0.4414 | 0.4284 | 0.4284 | 0.4284  |
    
- - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    PERSON-DATASET:MSMT17
+ - Performance about  MAP  TOP1  TOP3  TOP5  TOP10    PERSON-DATASET: Market1501
    
    |  Network  |  MAP   |  TOP1  |  TOP3  |  TOP5  |  TOP10  | 
    | :-------: | :----: | :----: | :----: | :----: | :-----: |
